@@ -1,9 +1,5 @@
 //conditional statment 
-
 //if condition 
-
-
-
 //if hour between 6 and 12 print "Good Morning"
 //if hour between 12 and 18 print "Good afternoon"
 //otherwise: print  "Good Evening"

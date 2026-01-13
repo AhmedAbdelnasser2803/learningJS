@@ -15,11 +15,11 @@ console.log(customer)
 
 
 //array 
-car = ['volvo' ,'BMW' , 'marcides'] //define 
-car[0]= 'fiate'                     //overWrite for the first element
-console.log(car[0])                 //print the first element 
+cars = ['volvo' ,'BMW' , 'marcides'] //define 
+cars[0]= 'fiate'                     //overWrite for the first element
+console.log(cars[0])                 //print the first element 
 car[4]= 'none'                      //insert the element on the array 
-console.log(car[3])                 //print undefine element on the array
+console.log(cars[3])                 //print undefine element on the array
 
 
 
